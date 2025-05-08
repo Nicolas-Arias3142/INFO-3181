@@ -1,0 +1,79 @@
+[
+    {
+        "brands": "Athletix",
+        "Id": "AX001",
+        "ProductName": "Performance T-shirt",
+        "GraphicName": "athletix-tee-001",
+        "CostPrice": 11.0,
+        "MSRP": 25.0,
+        "QtyOnHand": 130,
+        "QtyOnBackOrder": 0,
+        "Description": "Moisture-wicking, breathable athletic tee designed for peak performance."
+    },
+    {
+        "brands": "Athletix",
+        "Id": "AX002",
+        "ProductName": "Running Shorts",
+        "GraphicName": "athletix-shorts-002",
+        "CostPrice": 13.0,
+        "MSRP": 28.0,
+        "QtyOnHand": 90,
+        "QtyOnBackOrder": 0,
+        "Description": "Lightweight running shorts with a built-in liner and zippered pocket."
+    },
+    {
+        "brands": "Athletix",
+        "Id": "AX003",
+        "ProductName": "Track Jacket",
+        "GraphicName": "athletix-jacket-003",
+        "CostPrice": 25.0,
+        "MSRP": 55.0,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 6,
+        "Description": "Sleek athletic track jacket with full zip and breathable mesh lining."
+    },
+    {
+        "brands": "EcoStyle",
+        "Id": "ES001",
+        "ProductName": "Recycled Fabric T-shirt",
+        "GraphicName": "eco-tee-001",
+        "CostPrice": 10.0,
+        "MSRP": 22.0,
+        "QtyOnHand": 110,
+        "QtyOnBackOrder": 0,
+        "Description": "Eco-friendly t-shirt made entirely from recycled plastic bottles and organic fibers."
+    },
+    {
+        "brands": "EcoStyle",
+        "Id": "ES002",
+        "ProductName": "Hemp Shorts",
+        "GraphicName": "eco-shorts-002",
+        "CostPrice": 16.5,
+        "MSRP": 35.0,
+        "QtyOnHand": 45,
+        "QtyOnBackOrder": 4,
+        "Description": "Breathable hemp-blend shorts perfect for summer and made with sustainability in mind."
+    },
+    {
+        "brands": "UrbanWear",
+        "Id": "UW001",
+        "ProductName": "Urban Graphic Tee",
+        "GraphicName": "urban-tee-001",
+        "CostPrice": 12.99,
+        "MSRP": 25.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0,
+        "Description": "Stylish graphic tee made from 100% organic cotton with a minimalist cityscape print."
+    },
+    {
+        "brands": "UrbanWear",
+        "Id": "UW002",
+        "ProductName": "Denim Jacket",
+        "GraphicName": "urban-jacket-002",
+        "CostPrice": 30.0,
+        "MSRP": 60.0,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 5,
+        "Description": "Classic denim jacket with a modern cut, suitable for cool weather and urban style."
+    }
+]
