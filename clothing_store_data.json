@@ -1,0 +1,183 @@
+{
+    "brands": [
+        {
+            "Id": 1,
+            "Name": "UrbanWear"
+        },
+        {
+            "Id": 2,
+            "Name": "EcoStyle"
+        },
+        {
+            "Id": 3,
+            "Name": "Athletix"
+        }
+    ],
+    "products": [
+        {
+            "Id": "UW001",
+            "BrandId": 1,
+            "ProductName": "Urban Graphic Tee",
+            "GraphicName": "urban-tee-001",
+            "CostPrice": 12.99,
+            "MSRP": 25.0,
+            "QtyOnHand": 100,
+            "QtyOnBackOrder": 0,
+            "Description": "Stylish graphic tee made from 100% organic cotton with a minimalist cityscape print."
+        },
+        {
+            "Id": "UW002",
+            "BrandId": 1,
+            "ProductName": "Denim Jacket",
+            "GraphicName": "urban-jacket-002",
+            "CostPrice": 30.0,
+            "MSRP": 60.0,
+            "QtyOnHand": 40,
+            "QtyOnBackOrder": 5,
+            "Description": "Classic denim jacket with a modern cut, suitable for cool weather and urban style."
+        },
+        {
+            "Id": "UW003",
+            "BrandId": 1,
+            "ProductName": "Slim Fit Jeans",
+            "GraphicName": "urban-jeans-003",
+            "CostPrice": 22.0,
+            "MSRP": 45.0,
+            "QtyOnHand": 75,
+            "QtyOnBackOrder": 2,
+            "Description": "Comfortable slim-fit jeans made from durable stretch denim for all-day wear."
+        },
+        {
+            "Id": "UW004",
+            "BrandId": 1,
+            "ProductName": "Hooded Sweatshirt",
+            "GraphicName": "urban-hoodie-004",
+            "CostPrice": 18.5,
+            "MSRP": 35.0,
+            "QtyOnHand": 50,
+            "QtyOnBackOrder": 3,
+            "Description": "Soft cotton-blend hoodie with front pocket and adjustable drawstring hood."
+        },
+        {
+            "Id": "UW005",
+            "BrandId": 1,
+            "ProductName": "Bucket Hat",
+            "GraphicName": "urban-hat-005",
+            "CostPrice": 8.0,
+            "MSRP": 20.0,
+            "QtyOnHand": 150,
+            "QtyOnBackOrder": 0,
+            "Description": "Cotton bucket hat featuring subtle logo embroidery, ideal for sunny days."
+        },
+        {
+            "Id": "ES001",
+            "BrandId": 2,
+            "ProductName": "Recycled Fabric T-shirt",
+            "GraphicName": "eco-tee-001",
+            "CostPrice": 10.0,
+            "MSRP": 22.0,
+            "QtyOnHand": 110,
+            "QtyOnBackOrder": 0,
+            "Description": "Eco-friendly t-shirt made entirely from recycled plastic bottles and organic fibers."
+        },
+        {
+            "Id": "ES002",
+            "BrandId": 2,
+            "ProductName": "Hemp Shorts",
+            "GraphicName": "eco-shorts-002",
+            "CostPrice": 16.5,
+            "MSRP": 35.0,
+            "QtyOnHand": 45,
+            "QtyOnBackOrder": 4,
+            "Description": "Breathable hemp-blend shorts perfect for summer and made with sustainability in mind."
+        },
+        {
+            "Id": "ES003",
+            "BrandId": 2,
+            "ProductName": "Canvas Tote Bag",
+            "GraphicName": "eco-tote-003",
+            "CostPrice": 5.0,
+            "MSRP": 15.0,
+            "QtyOnHand": 200,
+            "QtyOnBackOrder": 0,
+            "Description": "Durable canvas tote bag featuring eco-messages and strong reinforced handles."
+        },
+        {
+            "Id": "ES004",
+            "BrandId": 2,
+            "ProductName": "Organic Cotton Hoodie",
+            "GraphicName": "eco-hoodie-004",
+            "CostPrice": 20.0,
+            "MSRP": 42.0,
+            "QtyOnHand": 60,
+            "QtyOnBackOrder": 1,
+            "Description": "Made from 100% organic cotton, this hoodie is perfect for those who care for the planet."
+        },
+        {
+            "Id": "ES005",
+            "BrandId": 2,
+            "ProductName": "Wool Beanie",
+            "GraphicName": "eco-beanie-005",
+            "CostPrice": 9.5,
+            "MSRP": 18.0,
+            "QtyOnHand": 80,
+            "QtyOnBackOrder": 0,
+            "Description": "Warm beanie made from recycled wool, perfect for cold weather."
+        },
+        {
+            "Id": "AX001",
+            "BrandId": 3,
+            "ProductName": "Performance T-shirt",
+            "GraphicName": "athletix-tee-001",
+            "CostPrice": 11.0,
+            "MSRP": 25.0,
+            "QtyOnHand": 130,
+            "QtyOnBackOrder": 0,
+            "Description": "Moisture-wicking, breathable athletic tee designed for peak performance."
+        },
+        {
+            "Id": "AX002",
+            "BrandId": 3,
+            "ProductName": "Running Shorts",
+            "GraphicName": "athletix-shorts-002",
+            "CostPrice": 13.0,
+            "MSRP": 28.0,
+            "QtyOnHand": 90,
+            "QtyOnBackOrder": 0,
+            "Description": "Lightweight running shorts with a built-in liner and zippered pocket."
+        },
+        {
+            "Id": "AX003",
+            "BrandId": 3,
+            "ProductName": "Track Jacket",
+            "GraphicName": "athletix-jacket-003",
+            "CostPrice": 25.0,
+            "MSRP": 55.0,
+            "QtyOnHand": 40,
+            "QtyOnBackOrder": 6,
+            "Description": "Sleek athletic track jacket with full zip and breathable mesh lining."
+        },
+        {
+            "Id": "AX004",
+            "BrandId": 3,
+            "ProductName": "Compression Leggings",
+            "GraphicName": "athletix-leggings-004",
+            "CostPrice": 19.0,
+            "MSRP": 38.0,
+            "QtyOnHand": 70,
+            "QtyOnBackOrder": 2,
+            "Description": "High-performance leggings designed to support muscles and enhance movement."
+        },
+        {
+            "Id": "AX005",
+            "BrandId": 3,
+            "ProductName": "Athletic Cap",
+            "GraphicName": "athletix-cap-005",
+            "CostPrice": 6.0,
+            "MSRP": 15.0,
+            "QtyOnHand": 100,
+            "QtyOnBackOrder": 0,
+            "Description": "Quick-dry cap with UV protection and adjustable strap for a snug fit."
+        }
+    ]
+}
