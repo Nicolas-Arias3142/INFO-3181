@@ -75,5 +75,93 @@
         "QtyOnHand": 40,
         "QtyOnBackOrder": 5,
         "Description": "Classic denim jacket with a modern cut, suitable for cool weather and urban style."
+    },
+    {
+        "brands": "UrbanWear",
+        "Id": "UW003",
+        "ProductName": "Slim Fit Jeans",
+        "GraphicName": "urban-jeans-003",
+        "CostPrice": 22.0,
+        "MSRP": 45.0,
+        "QtyOnHand": 75,
+        "QtyOnBackOrder": 2,
+        "Description": "Comfortable slim-fit jeans made from durable stretch denim for all-day wear."
+    },
+    {
+        "brands": "UrbanWear",
+        "Id": "UW004",
+        "ProductName": "Hooded Sweatshirt",
+        "GraphicName": "urban-hoodie-004",
+        "CostPrice": 18.5,
+        "MSRP": 35.0,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 3,
+        "Description": "Soft cotton-blend hoodie with front pocket and adjustable drawstring hood."
+    },
+    {
+        "brands": "UrbanWear",
+        "Id": "UW005",
+        "ProductName": "Bucket Hat",
+        "GraphicName": "urban-hat-005",
+        "CostPrice": 8.0,
+        "MSRP": 20.0,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 0,
+        "Description": "Cotton bucket hat featuring subtle logo embroidery, ideal for sunny days."
+    },
+    {
+        "brands": "EcoStyle",
+        "Id": "ES003",
+        "ProductName": "Canvas Tote Bag",
+        "GraphicName": "eco-tote-003",
+        "CostPrice": 5.0,
+        "MSRP": 15.0,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 0,
+        "Description": "Durable canvas tote bag featuring eco-messages and strong reinforced handles."
+    },
+    {
+        "brands": "EcoStyle",
+        "Id": "ES004",
+        "ProductName": "Organic Cotton Hoodie",
+        "GraphicName": "eco-hoodie-004",
+        "CostPrice": 20.0,
+        "MSRP": 42.0,
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 1,
+        "Description": "Made from 100% organic cotton, this hoodie is perfect for those who care for the planet."
+    },
+    {
+        "brands": "EcoStyle",
+        "Id": "ES005",
+        "ProductName": "Wool Beanie",
+        "GraphicName": "eco-beanie-005",
+        "CostPrice": 9.5,
+        "MSRP": 18.0,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 0,
+        "Description": "Warm beanie made from recycled wool, perfect for cold weather."
+    },
+    {
+        "brands": "Athletix",
+        "Id": "AX004",
+        "ProductName": "Compression Leggings",
+        "GraphicName": "athletix-leggings-004",
+        "CostPrice": 19.0,
+        "MSRP": 38.0,
+        "QtyOnHand": 70,
+        "QtyOnBackOrder": 2,
+        "Description": "High-performance leggings designed to support muscles and enhance movement."
+    },
+    {
+        "brands": "Athletix",
+        "Id": "AX005",
+        "ProductName": "Athletic Cap",
+        "GraphicName": "athletix-cap-005",
+        "CostPrice": 6.0,
+        "MSRP": 15.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 0,
+        "Description": "Quick-dry cap with UV protection and adjustable strap for a snug fit."
     }
 ]
