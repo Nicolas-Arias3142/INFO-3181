@@ -8,7 +8,7 @@
         "MSRP": 25.0,
         "QtyOnHand": 130,
         "QtyOnBackOrder": 0,
-        "Description": "Moisture-wicking, breathable athletic tee designed for peak performance."
+        "Description": "A technical athletic t-shirt engineered with sweat-wicking fibers and breathable panels for intense activity. Ideal for training or casual sportwear."
     },
     {
         "brands": "Athletix",
@@ -19,7 +19,7 @@
         "MSRP": 28.0,
         "QtyOnHand": 90,
         "QtyOnBackOrder": 0,
-        "Description": "Lightweight running shorts with a built-in liner and zippered pocket."
+        "Description": "Feather-light running shorts featuring a supportive built-in liner, breathable fabric, and a zippered pocket for secure storage on the move."
     },
     {
         "brands": "Athletix",
@@ -30,7 +30,7 @@
         "MSRP": 55.0,
         "QtyOnHand": 40,
         "QtyOnBackOrder": 6,
-        "Description": "Sleek athletic track jacket with full zip and breathable mesh lining."
+        "Description": "A performance-focused track jacket with breathable mesh lining and durable shell. Sleek cut with full-zip design for layering comfort."
     },
     {
         "brands": "EcoStyle",
@@ -41,7 +41,7 @@
         "MSRP": 22.0,
         "QtyOnHand": 110,
         "QtyOnBackOrder": 0,
-        "Description": "Eco-friendly t-shirt made entirely from recycled plastic bottles and organic fibers."
+        "Description": "Eco-conscious t-shirt crafted from recycled plastics and organic materials. Combines sustainability, softness, and style for everyday wear."
     },
     {
         "brands": "EcoStyle",
@@ -52,7 +52,7 @@
         "MSRP": 35.0,
         "QtyOnHand": 45,
         "QtyOnBackOrder": 4,
-        "Description": "Breathable hemp-blend shorts perfect for summer and made with sustainability in mind."
+        "Description": "Breathable hemp-blend shorts that prioritize comfort and sustainability. Great for warm weather, leisure, and low-impact workouts."
     },
     {
         "brands": "UrbanWear",
@@ -63,7 +63,7 @@
         "MSRP": 25.0,
         "QtyOnHand": 100,
         "QtyOnBackOrder": 0,
-        "Description": "Stylish graphic tee made from 100% organic cotton with a minimalist cityscape print."
+        "Description": "Urban-style tee featuring a minimalist cityscape graphic, made with 100% organic cotton. A staple for any casual streetwear wardrobe."
     },
     {
         "brands": "UrbanWear",
@@ -74,7 +74,7 @@
         "MSRP": 60.0,
         "QtyOnHand": 40,
         "QtyOnBackOrder": 5,
-        "Description": "Classic denim jacket with a modern cut, suitable for cool weather and urban style."
+        "Description": "Timeless denim jacket updated with a slim silhouette and tough stitching. Perfect for layering in cool climates with urban appeal."
     },
     {
         "brands": "UrbanWear",
@@ -85,7 +85,7 @@
         "MSRP": 45.0,
         "QtyOnHand": 75,
         "QtyOnBackOrder": 2,
-        "Description": "Comfortable slim-fit jeans made from durable stretch denim for all-day wear."
+        "Description": "These slim-fit jeans blend style and comfort with stretch denim. Reinforced for daily wear and tailored for a sharp, clean look."
     },
     {
         "brands": "UrbanWear",
@@ -96,7 +96,7 @@
         "MSRP": 35.0,
         "QtyOnHand": 50,
         "QtyOnBackOrder": 3,
-        "Description": "Soft cotton-blend hoodie with front pocket and adjustable drawstring hood."
+        "Description": "A hoodie made from a plush cotton blend with ribbed trim, adjustable hood, and a relaxed fit for warmth and all-day coziness."
     },
     {
         "brands": "UrbanWear",
@@ -107,7 +107,7 @@
         "MSRP": 20.0,
         "QtyOnHand": 150,
         "QtyOnBackOrder": 0,
-        "Description": "Cotton bucket hat featuring subtle logo embroidery, ideal for sunny days."
+        "Description": "Stylish and practical, this bucket hat shields from sun while keeping you cool. Made of cotton and finished with minimal branding."
     },
     {
         "brands": "EcoStyle",
@@ -118,7 +118,7 @@
         "MSRP": 15.0,
         "QtyOnHand": 200,
         "QtyOnBackOrder": 0,
-        "Description": "Durable canvas tote bag featuring eco-messages and strong reinforced handles."
+        "Description": "Roomy and strong, this tote bag supports heavy loads while advocating sustainability through printed eco-positive messaging."
     },
     {
         "brands": "EcoStyle",
@@ -129,7 +129,7 @@
         "MSRP": 42.0,
         "QtyOnHand": 60,
         "QtyOnBackOrder": 1,
-        "Description": "Made from 100% organic cotton, this hoodie is perfect for those who care for the planet."
+        "Description": "Made with pure organic cotton, this hoodie wraps you in comfort and warmth while aligning with environmentally conscious values."
     },
     {
         "brands": "EcoStyle",
@@ -140,7 +140,7 @@
         "MSRP": 18.0,
         "QtyOnHand": 80,
         "QtyOnBackOrder": 0,
-        "Description": "Warm beanie made from recycled wool, perfect for cold weather."
+        "Description": "A winter classic reimagined using recycled wool. This beanie locks in heat while offering a timeless aesthetic and eco edge."
     },
     {
         "brands": "Athletix",
@@ -151,7 +151,7 @@
         "MSRP": 38.0,
         "QtyOnHand": 70,
         "QtyOnBackOrder": 2,
-        "Description": "High-performance leggings designed to support muscles and enhance movement."
+        "Description": "Engineered to support athletic performance, these leggings provide muscle compression, moisture control, and unrestricted mobility."
     },
     {
         "brands": "Athletix",
@@ -162,6 +162,6 @@
         "MSRP": 15.0,
         "QtyOnHand": 100,
         "QtyOnBackOrder": 0,
-        "Description": "Quick-dry cap with UV protection and adjustable strap for a snug fit."
+        "Description": "Built for athletic functionality, this quick-drying cap protects against UV rays and features an adjustable strap for a secure fit."
     }
 ]
