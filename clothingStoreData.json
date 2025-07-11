@@ -5,8 +5,8 @@
         "ProductName": "Performance T-shirt",
         "GraphicName": "athletix-tee-001",
         "CostPrice": 11.0,
-        "MSRP": 25.0,
-        "QtyOnHand": 130,
+        "MSRP": 509.99,
+        "QtyOnHand": 1,
         "QtyOnBackOrder": 0,
         "Description": "A technical athletic t-shirt engineered with sweat-wicking fibers and breathable panels for intense activity. Ideal for training or casual sportwear."
     },
@@ -16,8 +16,8 @@
         "ProductName": "Running Shorts",
         "GraphicName": "athletix-shorts-002",
         "CostPrice": 13.0,
-        "MSRP": 28.0,
-        "QtyOnHand": 90,
+        "MSRP": 599.99,
+        "QtyOnHand": 1,
         "QtyOnBackOrder": 0,
         "Description": "Feather-light running shorts featuring a supportive built-in liner, breathable fabric, and a zippered pocket for secure storage on the move."
     },
